@@ -1,5 +1,6 @@
 __pycache__/
 *.pyc
+.codex/
 
 .vscode/
 
@@ -7,4 +8,3 @@ build/
 *.o
 *.so
 *.egg-info/
-
